@@ -85,7 +85,7 @@ Selain pengeditan teks, pengembangan perangkat lunak juga merupakan bagian penti
 
 ![App Screenshot](</Image/7 (python kalkulator.py).png>)
 
-2. Buka atau buat file kalkulator.py menggunakan editor teks pilihan Anda (Nano, Vim, atau Neovim).
+2. Buka atau buat file kalkulator.py menggunakan editor teks pilihan Anda (Nano, Vim, atau Vi).
 3. Salin dan tempel kode program kalkulator.py ke dalam file tersebut.
 4. Simpan perubahan dan keluar dari editor teks.
 5. Jalankan kalkulator.py dengan mengetik perintah `python kalkulator.py` di terminal.
